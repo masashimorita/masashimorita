@@ -1,8 +1,3 @@
-<a href="https://github.com/masashimorita/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/masashimorita/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=masashimorita&column=7&theme=gruvbox&no-frame=true"/>
-</a>
-
 <a href="https://github.com/masashimorita/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=masashimorita&count_private=true&show_icons=true&theme=dracula" />
 </a>
